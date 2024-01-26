@@ -1,0 +1,11 @@
+C:\Users\Rodrigo\Desktop\StatusUnit.exe
+C:\Users\Rodrigo\Desktop\StatusUnit.dll
+C:\Users\Rodrigo\Desktop\StatusUnit.deps.json
+C:\Users\Rodrigo\Desktop\StatusUnit.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\StatusUnit.pdb
+C:\Users\Rodrigo\Desktop\System.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\runtimes\win-arm64\native\sni.dll
+C:\Users\Rodrigo\Desktop\runtimes\win-x64\native\sni.dll
+C:\Users\Rodrigo\Desktop\runtimes\win-x86\native\sni.dll
+C:\Users\Rodrigo\Desktop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

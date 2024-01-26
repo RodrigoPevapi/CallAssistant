@@ -1,0 +1,11 @@
+C:\Users\Rodrigo\Desktop\CallAssistant\StatusUnit.exe
+C:\Users\Rodrigo\Desktop\CallAssistant\StatusUnit.dll
+C:\Users\Rodrigo\Desktop\CallAssistant\StatusUnit.deps.json
+C:\Users\Rodrigo\Desktop\CallAssistant\StatusUnit.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\CallAssistant\StatusUnit.pdb
+C:\Users\Rodrigo\Desktop\CallAssistant\System.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\CallAssistant\runtimes\win-arm64\native\sni.dll
+C:\Users\Rodrigo\Desktop\CallAssistant\runtimes\win-x64\native\sni.dll
+C:\Users\Rodrigo\Desktop\CallAssistant\runtimes\win-x86\native\sni.dll
+C:\Users\Rodrigo\Desktop\CallAssistant\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rodrigo\Desktop\CallAssistant\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
